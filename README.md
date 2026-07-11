@@ -32,7 +32,7 @@ This project uses transfer learning to build an image classifier without trainin
 
 ## Demo
 
-A video demo showing live predictions is linked in the [LinkedIn post](#) about this project.
+A video demo showing live predictions is linked in the www.linkedin.com/in/aaryan-dabhade-0694903b9 about this project.
 
 ## Notes
 
