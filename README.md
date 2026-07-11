@@ -26,7 +26,7 @@ This project uses transfer learning to build an image classifier without trainin
 
 ## Running It Yourself
 
-1. Open `catdog_classifier.ipynb` in Google Colab
+1. Open `Cat_and_Dog_Classifier.ipynb` in Google Colab
 2. Run all cells in order
 3. To launch the web app, run the final cells (requires a free [ngrok](https://ngrok.com/) auth token, which you'll need to add yourself)
 
